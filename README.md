@@ -16,8 +16,8 @@
 ```
 
 ### `🌟` Favorites
-___
-|Favorite <img width=100/>|<img width=385/> ⭐ <img width=385/>|
+#
+|Favorite <img width=90/>|<img width=350/> ⭐ <img width=350/>|
 | --- | --- |
 | `🔖 Book` | [The Memory Police by *Yoko Ogawa*](https://www.goodreads.com/book/show/37004370-the-memory-police) |
 | `🎥 Movie` | [A Goofy Movie](https://letterboxd.com/film/a-goofy-movie/) |
@@ -25,7 +25,7 @@ ___
 | `🎵 Artists` | [EXO](https://www.last.fm/music/Exo) & [GFRIEND](https://www.last.fm/music/gfriend) |
 
 ### `🛠️` Skills
-___
+#
 <details>
   <summary><code>🖌️</code> Design</summary>
 <br>
@@ -36,8 +36,10 @@ ___
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 </details>
 
+#
+
 ### `🧠` Learning
-***
+#
 <details>
   <summary><code>🖌️</code> Design</summary>
 <br>
@@ -52,8 +54,10 @@ ___
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 </details>
 
+#
+
 ### `🦢` Other
-***
+#
 Find me here also:<br>
 [`🔖 GoodReads`](https://www.goodreads.com/user/show/167536511)
 [`🎥 Letterboxd`](https://letterboxd.com/10mort/)
