@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
+<h3 align="left">I am currently reading:</h3>
+<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=167536511" alt="GoodReads reading" width="350" /></a>
