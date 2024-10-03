@@ -1,5 +1,8 @@
-## 👋🏻, I'm Morten (He/Him)
-I am a **22** year old student from Denmark 🇩🇰, studying `Multimediadesign` at EASV Sønderborg!
+
+<h3 align="center">👋🏻, I'm Morten (He/Him)</h2>
+<p align="center">
+<img src='https://media3.giphy.com/media/FXynzLoP14IHsnfGmO/200w.gif?cid=6c09b9525i54ry0nb8c68o4bh1kwsf485s9575zc8hffculf&ep=v1_gifs_search&rid=200w.gif&ct=g' width=10% align="center">
+<p align="center">I am a <b>22</b> year old student from Denmark 🇩🇰, studying <code>Multimediadesign</code> at EASV Sønderborg!</p>
 
 ### 🌟 Favorites
 ___
@@ -39,4 +42,3 @@ Find me here also:<br>
 [`🎥 Letterboxd`](https://letterboxd.com/10mort/)
 [`🎧 LastFM`](https://www.last.fm/user/Mortxn)
 [`👁️ Design Instagram`](https://www.instagram.com/10mrtn/)
-
