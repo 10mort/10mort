@@ -1,19 +1,16 @@
-## Hi there 👋
+## 👋🏻, I'm Morten (He/Him)
+I am a **22** year old student from Denmark 🇩🇰, studying `Multimediadesign` at EASV Sønderborg!
 
-<!--
-**10mort/10mort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Favorite | Item |
+| --- | --- |
+| `🔖 Book` | [The Memory Police by *Yoko Ogawa*](https://www.goodreads.com/book/show/37004370-the-memory-police) |
+| `🎥 Movie` | [A Goofy Movie](https://letterboxd.com/film/a-goofy-movie/) |
+| `📺 TV-Show` | [Dynasty](https://www.imdb.com/title/tt6128300/) |
+| `🎵 Artists` | [EXO](https://www.last.fm/music/Exo) & [GFRIEND](https://www.last.fm/music/gfriend) |
 
-Here are some ideas to get you started:
+Find me here also:<br>
+[`🔖 GoodReads`](https://www.goodreads.com/user/show/167536511)
+[`🎥 Letterboxd`](https://letterboxd.com/10mort/)
+[`🎧 LastFM`](https://www.last.fm/user/Mortxn)
+[`👁️ Design Instagram`](https://www.instagram.com/10mrtn/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Books I'm currently reading
-<!-- GOODREADS-LIST:START -->
-<!-- GOODREADS-LIST:END -->
