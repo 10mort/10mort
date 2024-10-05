@@ -27,10 +27,14 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀   ⠀    ⠀   ⠀      ⡾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠂⠀⠀⠀⠀⠀
 ```
 
+<div align="center">
 
-## `📂` Other
-Find me here also:<br>
+## `📂` Roaming the Web
+[`✨ Bēhance`](https://www.behance.net/10mort)
+[`🏀 Dribble`](https://dribbble.com/10mort)
 [`🔖 GoodReads`](https://www.goodreads.com/user/show/167536511)
 [`🎥 Letterboxd`](https://letterboxd.com/10mort/)
 [`🎧 LastFM`](https://www.last.fm/user/Mortxn)
 [`🐒 Monkeytype`](https://monkeytype.com/profile/10mort)
+
+</div>
